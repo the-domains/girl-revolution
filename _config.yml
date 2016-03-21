@@ -1,0 +1,28 @@
+name: Girl Revolution
+favicon: null
+layout_spectrum: 0.4962175751570612
+typography_spectrum: 0.9960424746386707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6063552817795426
+  lightness: 0.8323195909615606
+  saturation: 0.6423438820056617
+  rhythmicContrast: 0.5107191344723105
+purpose: []
