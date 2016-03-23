@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Girl Revolution
-datePublished: '2016-03-23T04:19:23.351Z'
-dateModified: '2016-03-23T04:18:16.982Z'
+datePublished: '2016-03-23T04:23:01.872Z'
+dateModified: '2016-03-23T04:21:50.899Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-girl-revolution.md
@@ -61,3 +61,11 @@ Girl Revolution Workshop
 A one-day workshop designed for the prepubescent girl (9-12). The workshop explores the changes that happen during puberty in a fun, non-threatening way that also educates the young girl on healthy methods to guide them through adolescence.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed11aa-4e3b-4743-a4a8-26f2522886c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff9a32dc-7ed9-4c9e-9df4-a48f18a46ece.jpg)
+
+[
+
+<iframe src="https://embed-ssl.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection.html" width="640" height="360" frameborder="0" scrolling="no" mozallowfullscreen="mozallowfullscreen" style=""></iframe>
+
+"GIRL REVOLUTIO][0]N
+
+[0]: href
