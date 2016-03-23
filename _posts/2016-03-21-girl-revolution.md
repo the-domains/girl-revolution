@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Girl Revolution
-datePublished: '2016-03-21T08:59:26.351Z'
-dateModified: '2016-03-21T08:59:24.069Z'
+datePublished: '2016-03-23T03:54:31.568Z'
+dateModified: '2016-03-23T03:54:28.790Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-girl-revolution.md
@@ -44,3 +44,17 @@ Enhancing our girl's self-esteem, communication and decision making skills in re
 
 Encourage feminine camaraderie as opposed to competition amongst their peers.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3cd488d-0a91-432c-b14c-a45d70d3df37.jpg)
+
+PROGRAMMES
+
+Understanding Your Adolescent Girl:
+
+Talk
+
+"The structure of a female brain at puberty determines not only how they think but what they value and how they communicate."  Louann Brizendine -- TheFemale Brain.
+
+This talk delivers a greater understanding of the changes that occur in the female brain during puberty. We look at how that impacts on a physical, emotional and social level. The talk offers practical tools for you to support the adolescent girl through this transition time.
+
+Girl Revolution Workshop
+
+A one-day workshop designed for the prepubescent girl (9-12). The workshop explores the changes that happen during puberty in a fun, non-threatening way that also educates the young girl on healthy methods to guide them through adolescence
