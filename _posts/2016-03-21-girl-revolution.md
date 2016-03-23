@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Girl Revolution
-datePublished: '2016-03-23T03:54:31.568Z'
-dateModified: '2016-03-23T03:54:28.790Z'
+datePublished: '2016-03-23T04:19:23.351Z'
+dateModified: '2016-03-23T04:18:16.982Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-girl-revolution.md
@@ -22,7 +22,8 @@ url: girl-revolution/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e48f170a-0cfe-4760-9076-d062790783e0.jpg)
+GIRL REVOLUTION
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf57cdcc2886835ebfe34716732d0ef65615eb2.jpg)
 
 Girl Revolution
 
@@ -57,4 +58,6 @@ This talk delivers a greater understanding of the changes that occur in the fema
 
 Girl Revolution Workshop
 
-A one-day workshop designed for the prepubescent girl (9-12). The workshop explores the changes that happen during puberty in a fun, non-threatening way that also educates the young girl on healthy methods to guide them through adolescence
+A one-day workshop designed for the prepubescent girl (9-12). The workshop explores the changes that happen during puberty in a fun, non-threatening way that also educates the young girl on healthy methods to guide them through adolescence.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ed11aa-4e3b-4743-a4a8-26f2522886c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff9a32dc-7ed9-4c9e-9df4-a48f18a46ece.jpg)
