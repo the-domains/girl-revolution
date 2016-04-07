@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Girl Revolution
-datePublished: '2016-03-23T04:23:01.872Z'
-dateModified: '2016-03-23T04:21:50.899Z'
-title: ''
+datePublished: '2016-04-07T12:38:03.285Z'
+dateModified: '2016-04-07T12:38:02.229Z'
+title: GIRL REVOLUTION
 author: []
 sourcePath: _posts/2016-03-21-girl-revolution.md
 published: true
@@ -22,7 +22,7 @@ url: girl-revolution/index.html
 _type: Article
 
 ---
-GIRL REVOLUTION
+# GIRL REVOLUTION
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf57cdcc2886835ebfe34716732d0ef65615eb2.jpg)
 
 Girl Revolution
@@ -66,6 +66,6 @@ A one-day workshop designed for the prepubescent girl (9-12). The workshop explo
 
 <iframe src="https://embed-ssl.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection.html" width="640" height="360" frameborder="0" scrolling="no" mozallowfullscreen="mozallowfullscreen" style=""></iframe>
 
-"GIRL REVOLUTIO][0]N
+"TEACH GIRLS BRAVERY NOT PERFECTION"][0]
 
 [0]: href
